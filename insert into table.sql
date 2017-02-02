@@ -1,0 +1,2 @@
+INSERT INTO patient123
+VALUES(23)

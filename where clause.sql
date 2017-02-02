@@ -1,0 +1,3 @@
+SELECT PersonID
+FROM patient123
+WHERE PersonID=23
